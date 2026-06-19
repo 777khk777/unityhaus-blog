@@ -1,0 +1,64 @@
+---
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header>
+	<nav>
+		<a class="logo" href="https://unityhaus.ca">
+			<svg viewBox="0 0 120 28" aria-label="UnityHaus" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<text x="0" y="22" font-family="'DM Serif Display', Georgia, serif" font-size="22" fill="#F7F4EF">UnityHaus</text>
+			</svg>
+		</a>
+		<div class="internal-links">
+			<HeaderLink href="/">Journal</HeaderLink>
+			<HeaderLink href="/blog">All Posts</HeaderLink>
+			<a class="back-link" href="https://unityhaus.ca" target="_blank">unityhaus.ca ↗</a>
+		</div>
+	</nav>
+</header>
+
+<style>
+	header {
+		background: #1E7A52;
+		border-bottom: 1px solid #174F36;
+		padding: 0 2rem;
+		height: 60px;
+		display: flex;
+		align-items: center;
+	}
+	nav {
+		width: 100%;
+		max-width: 900px;
+		margin: 0 auto;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	.logo {
+		font-family: 'DM Serif Display', Georgia, serif;
+		font-size: 1.15rem;
+		color: #F7F4EF;
+		text-decoration: none;
+		letter-spacing: 0.01em;
+	}
+	.internal-links {
+		display: flex;
+		align-items: center;
+		gap: 1.5rem;
+	}
+	.internal-links :global(a) {
+		color: #A8D9C0;
+		font-size: 15px;
+		text-decoration: none;
+		transition: color 0.15s;
+	}
+	.internal-links :global(a:hover),
+	.internal-links :global(a.active) {
+		color: #F7F4EF;
+	}
+	.back-link {
+		font-size: 14px !important;
+		opacity: 0.7;
+	}
+	.back-link:hover { opacity: 1 !important; }
+</style>
