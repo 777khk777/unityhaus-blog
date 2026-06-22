@@ -5,7 +5,7 @@ pubDate: 2026-06-19
 heroImage: ""
 ---
 
-Every big project starts with a simple question. For us it was: **can we build a truly high-performance home — Passive House certified — as an ADU in the Durham Region, and document the entire process publicly?**
+Every big project starts with a simple question. For us it was: **can we build a truly high-performance home — built to the Passive House standard — as an ADU in the Durham Region, and document the entire process publicly?**
 
 The answer, we believe, is yes. And this journal is how we prove it.
 
@@ -17,7 +17,7 @@ We wanted to show there's a better way.
 
 ## Why Passive House?
 
-Passive House is the world's most rigorous building energy standard. It's not a style or a marketing term — it's a physics-based science that requires:
+Passive House is one of the world's most rigorous building energy standards. It's not a style or a marketing term — it's a building-science standard that requires:
 
 - **Super-insulation** on every surface
 - A continuous **airtight envelope**, verified by blower-door test

@@ -51,7 +51,7 @@ The lesson here isn't about construction — it's about people. If you're the pr
 
 ![The excavated lot — progress to some, disruption to others](./family-construction-site.png)
 
-![Construction in full swing on the Namuhaus ADU site](./construction-site-view.png)
+![Construction in full swing on the NamuHaus ADU site](./construction-site-view.png)
 
 ---
 
@@ -77,12 +77,12 @@ Trenching for utilities, plumbing and electrical rough-ins, gravel placement, co
 
 I'll keep sharing what I learn, including the mistakes. Especially the mistakes.
 
-If you're thinking about building a Passive House, follow along with the Namuhaus build.
+If you're thinking about building a Passive House, follow along with the NamuHaus build.
 
-![Namuhaus site — trenching and utility rough-ins are next](./whats-next-site-1.png)
+![NamuHaus site — trenching and utility rough-ins are next](./whats-next-site-1.png)
 
-![The Namuhaus build site in Oshawa, Ontario](./whats-next-site-2.png)
+![The NamuHaus build site in Oshawa, Ontario](./whats-next-site-2.png)
 
 ---
 
-_Namuhaus is Unityhaus's first Passive House ADU, currently under construction in Oshawa, Ontario (Climate Zone 6). It serves as a live proof of concept for high-performance, panelized homebuilding._
+_NamuHaus is UnityHaus's first Passive House ADU, currently under construction in Oshawa, Ontario (Climate Zone 6). It serves as a live proof of concept for high-performance, panelized homebuilding._
